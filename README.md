@@ -9,7 +9,7 @@ https://documenter.getpostman.com/view/25071613/2s93sgXqex
 
 ## Creates a new event and returns the ID of the created event
 
-![Post Request Screenshot](./screenshots/postRequest.png)
+![Post Request Screenshot](./screenshots/postrequest.png)
 
 Endpoint: `POST /api/v3/app/events`
 
